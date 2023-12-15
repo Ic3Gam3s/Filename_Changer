@@ -1,0 +1,17 @@
+C:\Users\janni\source\repos\format_filename\format_filename\bin\Debug\net7.0-windows\format_filename.exe
+C:\Users\janni\source\repos\format_filename\format_filename\bin\Debug\net7.0-windows\format_filename.deps.json
+C:\Users\janni\source\repos\format_filename\format_filename\bin\Debug\net7.0-windows\format_filename.runtimeconfig.json
+C:\Users\janni\source\repos\format_filename\format_filename\bin\Debug\net7.0-windows\format_filename.dll
+C:\Users\janni\source\repos\format_filename\format_filename\bin\Debug\net7.0-windows\format_filename.pdb
+C:\Users\janni\source\repos\format_filename\format_filename\obj\Debug\net7.0-windows\format_filename.Form1.resources
+C:\Users\janni\source\repos\format_filename\format_filename\obj\Debug\net7.0-windows\format_filename.csproj.GenerateResource.cache
+C:\Users\janni\source\repos\format_filename\format_filename\obj\Debug\net7.0-windows\format_filename.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janni\source\repos\format_filename\format_filename\obj\Debug\net7.0-windows\format_filename.AssemblyInfoInputs.cache
+C:\Users\janni\source\repos\format_filename\format_filename\obj\Debug\net7.0-windows\format_filename.AssemblyInfo.cs
+C:\Users\janni\source\repos\format_filename\format_filename\obj\Debug\net7.0-windows\format_filename.csproj.CoreCompileInputs.cache
+C:\Users\janni\source\repos\format_filename\format_filename\obj\Debug\net7.0-windows\format_filename.dll
+C:\Users\janni\source\repos\format_filename\format_filename\obj\Debug\net7.0-windows\refint\format_filename.dll
+C:\Users\janni\source\repos\format_filename\format_filename\obj\Debug\net7.0-windows\format_filename.pdb
+C:\Users\janni\source\repos\format_filename\format_filename\obj\Debug\net7.0-windows\format_filename.genruntimeconfig.cache
+C:\Users\janni\source\repos\format_filename\format_filename\obj\Debug\net7.0-windows\ref\format_filename.dll
+C:\Users\janni\source\repos\format_filename\format_filename\obj\Debug\net7.0-windows\format_filename.Properties.Resources.resources
